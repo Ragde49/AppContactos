@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Miscontactos</string>
+    <string name="nombre">Edgar Cantu</string>
+    <string name="telefono">6144148529</string>
+    <string name="email">ecantu@softcame.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
