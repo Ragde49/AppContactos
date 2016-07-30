@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DatosContacto</string>
+    <string name="nombre">Nombre</string>
+    <string name="fechan">Fecha de Nacimiento</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">email</string>
+    <string name="descripcion">Descripcion del Contacto</string>
+    <string name="btnsiguiente">Siguiente</string>
+    <string name="btneditar">Editar Datos</string>
+    <string name="telconf">Tel: </string>
+    <string name="emailconf">email: </string>
+    <string name="descconf">Descripcion: </string>
+</resources>
